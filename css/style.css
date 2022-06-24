@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto";
+}
+
+.navbar {
+  display: inline;
+  padding: 20px;
+  position: fixed;
+  background-color: cadetblue;
+  width: 100%;
+}
+nav ul li {
+  display: inline-block;
+  padding: 0px 5px;
+}
+#About {
+  padding-top: 50px;
+}
+main {
+  display: block;
+  background-color: lightblue;
+  padding: 20px;
+}
+main section h1 {
+  margin: 20px 0;
+}
+
+footer {
+  padding: 10px 20px 30px 20px;
+  display: block;
+  background-color: cadetblue;
+}
+#Details {
+  padding-right: 75%;
+}
+section input {
+  width: 100%;
+}
+
+footer dt {
+  font-weight: bold;
+  padding-bottom: 5px;
+}
+footer dl {
+  padding-bottom: 10px;
+}
